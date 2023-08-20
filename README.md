@@ -47,6 +47,16 @@ The Customer Satisfaction Prediction App is a Streamlit-based application that p
 
     ```bash
     streamlit run streamlit_app.py
+7. Dema and screenshot
+##### Screenshot 1:
+![App Screenshot](https://github.com/Anirudhrarao/Customer-Satisfaction-Prediction-App/blob/main/Demo/stream.png)
+##### Screenshot 2:
+![App Screenshot](https://github.com/Anirudhrarao/Customer-Satisfaction-Prediction-App/blob/main/Demo/mlflow.png)
+
+## Authors
+
+- [@Anirudhrarao](https://github.com/Anirudhrarao)
+
 
 ### Training Pipeline
 
