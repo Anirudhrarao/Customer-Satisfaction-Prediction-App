@@ -53,10 +53,6 @@ The Customer Satisfaction Prediction App is a Streamlit-based application that p
 ##### Screenshot 2:
 ![App Screenshot](https://github.com/Anirudhrarao/Customer-Satisfaction-Prediction-App/blob/main/Demo/mlflow.png)
 
-## Authors
-
-- [@Anirudhrarao](https://github.com/Anirudhrarao)
-
 
 ### Training Pipeline
 
@@ -69,3 +65,7 @@ Our standard training pipeline consists of several steps:
 
 ### Training & Predicting Pipeline
 We have pipeline for training model and after training we can do prediction using predicting pipeline.
+
+### Authors
+
+- [@Anirudhrarao](https://github.com/Anirudhrarao)
